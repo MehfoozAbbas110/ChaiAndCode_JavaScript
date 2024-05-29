@@ -1,7 +1,7 @@
 // "use strict"; // treats all Js Codes as a Newer version.
 
 let name = "Mehfooz"     // String
-const age = 28;           // Number
+const age = 28           // Number
 let isMarried = true  // Boolean
 let occupation;      // undefined
 let iD = null     // Object
